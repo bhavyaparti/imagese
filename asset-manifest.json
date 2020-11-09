@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://imagessearchengine.herokuapp.com/static/js/main.d244888c.chunk.js",
+    "main.js.map": "https://imagessearchengine.herokuapp.com/static/js/main.d244888c.chunk.js.map",
+    "runtime-main.js": "https://imagessearchengine.herokuapp.com/static/js/runtime-main.479065a1.js",
+    "runtime-main.js.map": "https://imagessearchengine.herokuapp.com/static/js/runtime-main.479065a1.js.map",
+    "static/js/2.589b75f5.chunk.js": "https://imagessearchengine.herokuapp.com/static/js/2.589b75f5.chunk.js",
+    "static/js/2.589b75f5.chunk.js.map": "https://imagessearchengine.herokuapp.com/static/js/2.589b75f5.chunk.js.map",
+    "index.html": "https://imagessearchengine.herokuapp.com/index.html",
+    "precache-manifest.68e6b61d08a57f64dd23d66a7edc5d3c.js": "https://imagessearchengine.herokuapp.com/precache-manifest.68e6b61d08a57f64dd23d66a7edc5d3c.js",
+    "service-worker.js": "https://imagessearchengine.herokuapp.com/service-worker.js",
+    "static/js/2.589b75f5.chunk.js.LICENSE.txt": "https://imagessearchengine.herokuapp.com/static/js/2.589b75f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.479065a1.js",
+    "static/js/2.589b75f5.chunk.js",
+    "static/js/main.d244888c.chunk.js"
+  ]
+}
